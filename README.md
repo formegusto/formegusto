@@ -1,4 +1,7 @@
 <div align="center">
+  ![Group 12](https://user-images.githubusercontent.com/52296323/190552185-1ecfaedf-f45f-47bc-b7e5-1b672726e505.png)
+</div>
+<div align="center">
   <img src="https://user-images.githubusercontent.com/52296323/190330812-856c8e87-50f3-478b-9094-c3ed5de6823b.png" />
 </div>
 <div align="center">
